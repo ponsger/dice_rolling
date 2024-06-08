@@ -1,0 +1,14 @@
+.button-rolling{
+    margin-top: 5%;
+    padding: 1%;
+    cursor: pointer;
+    width: 15%;
+    border: none;
+    background-color: #ddd;
+    border-radius: 15px;
+}
+
+
+.button-rolling:hover{
+    opacity: .8;
+}
